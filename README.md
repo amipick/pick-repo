@@ -1,2 +1,2 @@
 # pick-repo
-I love :pizza:
+I love :pizza: and :coffee:
